@@ -327,6 +327,12 @@ border: 1px solid red;
     background-repeat: no-repeat;
     background-size: cover;
 }
+ .pzfour:hover {
+   display: flex;
+   flex-direction: row;
+   width: fit-content;
+   scale: 1.2;
+}
 .textf {
     padding-left: 30px;
     margin-bottom: 0;
